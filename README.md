@@ -2,7 +2,7 @@
 
 # Andi's changes to use Swarm with Groq:
 
-- clone the repo: "pip install git+https://github.com/ajerni/openswarm.git"
+- clone the repo: git clone https://github.com/ajerni/openswarm.git
 
 After cloning the repo, cd into the project root directory openswarm. Then:
 
