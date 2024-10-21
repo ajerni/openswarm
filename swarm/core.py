@@ -4,6 +4,13 @@ import json
 from collections import defaultdict
 from typing import List, Callable, Union
 
+# Added for openswarm use with Groq:
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+os.environ['GROQ_API_KEY'] = os.getenv('GROQ_API_KEY')
+
 # Package/library imports
 from groq import Groq
 
