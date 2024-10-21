@@ -1,7 +1,10 @@
 ![Swarm Logo](assets/logo.png)
 
 # Andi's changes to use Swarm with Groq:
-After cloning the repo, cd into the project root directory llm_engineering. Then:
+
+- clone the repo: pip install git+https://github.com/ajerni/openswarm.git
+
+After cloning the repo, cd into the project root directory openswarm. Then:
 
 - Create a new virtual environment: python -m venv venv
 - Activate the virtual environment with
