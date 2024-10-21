@@ -3,8 +3,9 @@
 # Andi's changes to use Swarm with Groq:
 
 - clone the repo: git clone https://github.com/ajerni/openswarm.git
+- cd into the main folder: cd openswarm
 
-After cloning the repo, cd into the project root directory openswarm. Then:
+Then:
 
 - Create a new virtual environment: python -m venv venv
 - Activate the virtual environment with
