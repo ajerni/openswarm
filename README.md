@@ -3,12 +3,12 @@
 # Andi's changes to use Swarm with Groq:
 After cloning the repo, cd into the project root directory llm_engineering. Then:
 
-Create a new virtual environment: python -m venv venv
-Activate the virtual environment with
-On a Mac: source venv/bin/activate
-On a PC: venv\Scripts\activate
-Run pip install -r requirements.txt
-Create a file called .env in the project root directory and add any private API keys, such as below. (The next section has more detailed instructions for this, if you prefer.)
+- Create a new virtual environment: python -m venv venv
+- Activate the virtual environment with
+    - On a Mac: source venv/bin/activate
+    - On a PC: venv\Scripts\activate
+- Run pip install -r requirements.txt
+- Create a file called .env in the project root directory and add any private API keys
 
 # Swarm (experimental, educational)
 
