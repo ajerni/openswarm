@@ -36,4 +36,3 @@ jupyter-dash
 beautifulsoup4
 pydub
 groq
-git+https://github.com/ajerni/openswarm.git
