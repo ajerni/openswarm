@@ -14,6 +14,9 @@ Then:
 - Run pip install -r requirements.txt
 - Create a file called .env in the project root directory and add any private API keys
 
+Then:
+- run the Jupyter notebook: jupyter lab
+
 # Swarm (experimental, educational)
 
 An educational framework exploring ergonomic, lightweight multi-agent orchestration.
