@@ -13,6 +13,11 @@ Then:
     - On a PC: venv\Scripts\activate
 - Run pip install -r requirements.txt
 - Create a file called .env in the project root directory and add any private API keys
+  - nano .env
+    - Save the file:
+        Control + O
+        Enter (to confirm save the file)
+        Control + X to exit the editor
 
 Then:
 - run the Jupyter notebook: jupyter lab
